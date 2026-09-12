@@ -53,8 +53,3 @@ Academic team projects from CESI. Where the repository is hosted on a teammate's
 | [**Breezy**](https://github.com/Zargan3IQ/Breezy) : REST API | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [commits →](https://github.com/T0wti/projet-api-groupe3/commits?author=Zargan3IQ) |
 | [**Stage-Finder**](https://github.com/Zargan3IQ/Stage-Finder) : internship-search web app | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [commits →](https://github.com/benjaminbourlet/Projet-WEB/commits?author=Zargan3IQ) |
 | [**Projet_POO_Groupe_2**](https://github.com/Zargan3IQ/Projet_POO_Groupe_2) : OOP project | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [commits →](https://github.com/Zargan3IQ/Game_Of_Life_Project/commits?author=Zargan3IQ) |
- 
-<div align="center">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zargan3IQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</div>
