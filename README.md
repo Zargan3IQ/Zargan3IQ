@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=160&section=header&text=Zargan&fontColor=FFFFFF&fontSize=42&fontAlignY=34&desc=Cybersecurity%20And%20Development&descAlignY=56&descSize=16" width="100%" />
 </div>
 Engineering student in Digital Systems / Computer Science, and cybersecurity apprentice in a Security Operations Center.
+
 ---
  
 ## Tech stack
@@ -47,11 +48,11 @@ Academic team projects from CESI. Where the repository is hosted on a teammate's
  
 | Project | Stack | My contribution |
 |---|---|---|
-| [**dynamic-tsp-optimization**](https://github.com/Zargan3IQ/dynamic-tsp-optimization) — time-dependent TSP with dynamic road blockages, solved with a genetic algorithm and ant colony optimization, benchmarked against an exact LP formulation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | <!-- TODO: e.g. ACO implementation and hyperparameter study --> |
-| [**EasySave**](https://github.com/Zargan3IQ/EasySave) — backup software | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [commits →](https://github.com/T0wti/EasySave/commits?author=Zargan3IQ) |
-| [**Breezy**](https://github.com/Zargan3IQ/Breezy) — REST API | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [commits →](https://github.com/T0wti/projet-api-groupe3/commits?author=Zargan3IQ) |
-| [**Stage-Finder**](https://github.com/Zargan3IQ/Stage-Finder) — internship-search web app | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [commits →](https://github.com/benjaminbourlet/Projet-WEB/commits?author=Zargan3IQ) |
-| [**Projet_POO_Groupe_2**](https://github.com/Zargan3IQ/Projet_POO_Groupe_2) — OOP project | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | — |
+| [**dynamic-tsp-optimization**](https://github.com/Zargan3IQ/dynamic-tsp-optimization) : time-dependent TSP with dynamic road blockages, solved with a genetic algorithm and ant colony optimization, benchmarked against an exact LP formulation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | <!-- TODO: e.g. ACO implementation and hyperparameter study --> |
+| [**EasySave**](https://github.com/Zargan3IQ/EasySave) : backup software | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [commits →](https://github.com/T0wti/EasySave/commits?author=Zargan3IQ) |
+| [**Breezy**](https://github.com/Zargan3IQ/Breezy) : REST API | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [commits →](https://github.com/T0wti/projet-api-groupe3/commits?author=Zargan3IQ) |
+| [**Stage-Finder**](https://github.com/Zargan3IQ/Stage-Finder) : internship-search web app | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [commits →](https://github.com/benjaminbourlet/Projet-WEB/commits?author=Zargan3IQ) |
+| [**Projet_POO_Groupe_2**](https://github.com/Zargan3IQ/Projet_POO_Groupe_2) : OOP project | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [commits →](https://github.com/Zargan3IQ/Game_Of_Life_Project/commits?author=Zargan3IQ) |
  
 <div align="center">
 <br>
